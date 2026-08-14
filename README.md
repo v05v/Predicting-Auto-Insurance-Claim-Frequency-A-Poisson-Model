@@ -11,3 +11,4 @@ How often will a given policyholder claim in a year, and which factors drive tha
 - Risk factors: Driver age, vehicle ageand power, fuel type, brand, the bonus-malus (no-claims) score, region, area, and population density
 
 ## Method
+-**Exposure offset**: 
